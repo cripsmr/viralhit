@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://viralhit.pages.dev/sitemap.xml
