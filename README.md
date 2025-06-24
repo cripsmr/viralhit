@@ -1,2 +1,1 @@
-# viralhit
-viralhit
+# [viralhit](https://viralhit.pages.dev)
